@@ -12,3 +12,8 @@ plateau, facing north.
 NASA remotely controls rovers via instructions consisting of strings of letters. Possible instruction letters are L, R,
 and M. L and R instruct the rover to turn 90 degrees left or right, respectively (without moving from its current spot),
 while M instructs the rover to move forward one grid point along its current heading.
+
+Solution:
+
+For each rover: Based on the initial position of the rover, take a character from the instruction and if it's L or R change the direction
+of Rover. If the instruction is Move, increse or decrease the position value.

@@ -1,5 +1,5 @@
-# DealerOn
-Coding exercise for a mars rover.
+ # DealerOn
+Coding exercise for a mars rover problem.
 
 A simple two-dimensional coordinate grid is mapped to the plateau to aid in rover navigation. Each point on the grid is
 represented by a pair of numbers X Y which correspond to the number of points East or North, respectively, from the
